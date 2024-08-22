@@ -24,7 +24,7 @@
 <table align="center">
   
   <td width=60%>
-    * I'm currently working in the [Computer Science, Programming and Algorithms Community.](http://cipalonline.github.io/)
+    * I'm currently working in the [Computer Science, Programming and Algorithms Community.(http://cipalonline.github.io/)
     * Learning C++ and Golang.
     * I'm open to collaborating on Linux projects, web development, and Python programs.
 
@@ -32,10 +32,12 @@
 
 <td text-align="center">
 
-  <div><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Druxorey&langs_count=10&theme=dracula&layout=compact&border_color=ff6e96&bg_color=00000000&" />
+  <div>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/username=Druxorey&langs_count=10&theme=dracula&layout=compact&border_color=ff6e96&bg_color=00000000&"/>
   </div>
 
 </td>
 
 </table>
+
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Badjavii&langs_count=10&theme=dracula&layout=compac&border_color=ff6e96&bg_color=00000000&)
