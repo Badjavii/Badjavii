@@ -1,16 +1,17 @@
-## Hi there 👋
+<!--! Title !-->
 
-<!--
-**Badjavii/Badjavii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm <a href="https://badjavii.github.io/">Badjavii</a></h1>
+<h2 align="center">Computer Engineering Student</h1>
 
-Here are some ideas to get you started:
+![snake](static/grid-snake.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--! About Me !-->
+
+<h2 align="center">About Me</h2>
+
+<div style="text-align:justify;">
+  <p>
+    Computer enthusiast, active dark web user and advanced junior python user.
+    Learning a lot about programming and computer software. Inspired by Linux Torvalds.
+  </p>
+</div>
