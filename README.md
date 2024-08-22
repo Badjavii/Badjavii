@@ -9,13 +9,13 @@
 
 <h2 align="center">About Me</h2>
 
-    <div style="text-align:justify;">
+<div style="text-align:justify;">
         <p>
             Computer enthusiast, active dark web user and advanced junior python user.
             Learning a lot about programming and computer software. \
             Inspired by Linux Torvalds.
         </p>
-    </div>
+</div>
 
 <!--! What Do I Currently Work On? !-->
 
