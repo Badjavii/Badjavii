@@ -62,6 +62,34 @@
 
 </table> 
 
+<!--! My Github Stats !-->
+
+<h2 align="center">My Github Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Badjavii&theme=dracula&show_icons=true&count_private=true&border_color=ff6e96&bg_color=00000000&"/>
+  <br>
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Badjavii&theme=dracula&border=ff6e96&background=00000000"/>
+</div>
+
+<!--! Developer's Quote !-->
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!--! Contact Me !-->
+
+<h2 align="center">Contact Me</h2>
+
+<div align="center">
+  
+  [<img src ="https://img.shields.io/badge/instagram-%23.svg?&style=for-the-badge&logo=instagram&logoColor=dark&color=1F1F28"/>](https://www.instagram.com/ukb.javi/)
+
+</div>
+
+
+
+
+
 
 
 
