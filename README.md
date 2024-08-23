@@ -7,13 +7,12 @@
 
 <!--! About Me !-->
 
-<h2 align="center">About Me</h2>
+<h2 align="center">My Journey in Computing and Programming</h2>
 
 <div style="text-align:justify;">
         <p>
-            Computer enthusiast, active dark web user and advanced junior python user.
-            Learning a lot about programming and computer software. \
-            Inspired by Linux Torvalds.
+            I was born in Venezuela and at the age of 13 I received my first PC. At first, I only used                 Microsoft Word and browsed the web for pirated movies.<br><br>At the age of 17, I installed 
+           Visual Studio Code and created my own website using HTML, CSS, and JavaScript. I also explored              different operating systems such as Windows 11 and Mint Linux.<br><br>I used a virtual machine              with Kali Linux and Tor to learn about computer system architecture on the Dark Web.<br>                    <br>Today, I continue to learn and aspire to become a professional in this field.
         </p>
 </div>
 
@@ -40,4 +39,4 @@
 
 </table>
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=Badjavii&langs_count=10&theme=dracula&layout=compac&border_color=ff6e96&bg_color=00000000&)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api)
