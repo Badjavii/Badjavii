@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm <a href="https://badjavii.github.io/">Badjavii</a></h1>
 <h2 align="center">Computer Engineering Student</h1>
 
-![mario]([https://github.com/Badjavii/Badjavii/blob/main/mario-running-away.gif)]
+![mario](https://github.com/Badjavii/Badjavii/blob/main/mario-running-away.gif)
 
 <!--! About Me !-->
 
