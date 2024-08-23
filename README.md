@@ -17,6 +17,30 @@
     <p>At 18, I used a virtual machine with Kali Linux and Tor to learn about computer system architecture on the Dark Web.</p>
     <p>Today, I continue to learn and aspire to become a professional in this field.</p>
 </div>
+
+<!--! What do I actually know? !-->
+
+<h2 align="center">What do I actually know?</h2>
+
+<table align="center">
+
+<td style="width:50%; text-align:center; vertical-align:top;">
+
+  <h3 align="center">Software and Tools</h3>
+  <img src="https://skillicons.dev/icons?i=discord,idea,github,vscode,notion,kali,linux&perline=3&theme=dark"/>
+  
+</td>
+
+<td style="width:50%; text-align:center; vertical-align:top;">
+  <h3 align="center">Languages</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,java,pa&perline=3&theme=dark"/>
+</td>
+
+</table>
+
+
+
+
         
 <!--! What Do I Currently Work On? !-->
 
@@ -37,4 +61,9 @@
 </td>
 
 </table> 
+
+
+
+
+
 
