@@ -18,9 +18,9 @@
     <p>Today, I continue to learn and aspire to become a professional in this field.</p>
 </div>
 
-<!--! What do I actually know? !-->
+<!--! What am I good at? !-->
 
-<h2 align="center">What do I actually know?</h2>
+<h2 align="center">What am I good at?</h2>
 
 <table align="center">
 
@@ -42,7 +42,7 @@
 
 </table>
         
-<!--! What Do I Currently Work On? !-->
+<!--! What’s keeping me busy these days? !-->
 
 <h2 align="center">What’s keeping me busy these days?</h2>
 
@@ -51,7 +51,7 @@
 <td width=60%>
         
 * Working with my [partner](https://github.com/druxorey) on developing [CIPAL.](http://cipalonline.github.io/)
-* Working on a special Python project.
+* Planning a special Python project.
 * Learning Java.
   
 </td>
