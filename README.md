@@ -24,9 +24,9 @@
   
 <td width=60%>
         
-* I'm collaborating with my [partner](https://github.com/druxorey) on developing [CIPAL.](http://cipalonline.github.io/)
-* I'm learning Java.
-* I'm working on a special Python project.
+* Collaborating with my [partner](https://github.com/druxorey) on developing [CIPAL.](http://cipalonline.github.io/)
+* Learning Java.
+* Working on a special Python project.
   
 </td>
 
