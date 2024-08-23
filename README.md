@@ -26,7 +26,7 @@
 
 <td style="width:50%; text-align:center; vertical-align:top;">
   <p align="center">
-    <img src="https://github.com/Badjavii/Badjavii/blob/main/mariouuuu.gif" width="200" height="100">
+    <img src="https://github.com/Badjavii/Badjavii/blob/main/programming.gif" width="210" height="150">
   </p>
 </td>
 
