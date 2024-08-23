@@ -10,35 +10,29 @@
 <h2 align="center">My Journey in Computing and Programming</h2>
 
 <div style="text-align:justify;">
-        <p>I was born in Venezuela and at the age of 13 I received my first PC. At first, I only used Microsoft Word and browsed the web for pirated movies.</p>
-        <p>At the age of 17, I installed Visual Studio Code and created my own website using HTML, CSS, and JavaScript. I also explored different operating systems such as Windows 11 and Mint Linux.</p>
-        <p>At 18, I used a virtual machine with Kali Linux and Tor to learn about computer system architecture on the Dark Web.</p>
-        <p>Today, I continue to learn and aspire to become a professional in this field.</p>
+    <p>I was born in Venezuela and at the age of 13 I received my first PC. At first, I only used Microsoft Word and browsed the web for pirated movies.</p>
+    <p>At the age of 17, I installed Visual Studio Code and created my own website using HTML, CSS, and JavaScript. I also explored different operating systems such as Windows 11 and Mint Linux.</p>
+    <p>At 18, I used a virtual machine with Kali Linux and Tor to learn about computer system architecture on the Dark Web.</p>
+    <p>Today, I continue to learn and aspire to become a professional in this field.</p>
 </div>
         
-</div>
-
 <!--! What Do I Currently Work On? !-->
 
-</h2 align="center">What Do I Currently Work On?</h2>
+<h2 align="center">What Do I Currently Work On?</h2>
 
 <table align="center">
   
-  <td width=60%>
-    * I'm currently working in the [Computer Science, Programming and Algorithms Community.(http://cipalonline.github.io/)
-    * Learning C++ and Golang.
-    * I'm open to collaborating on Linux projects, web development, and Python programs.
-
-  </td>
-
-<td text-align="center">
-
-  <div>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/username=Druxorey&langs_count=10&theme=dracula&layout=compact&border_color=ff6e96&bg_color=00000000&"/>
-  </div>
-
+<td width=60%>
+        
+* I'm collaborating with my [partner](https://github.com/druxorey) on developing [CIPAL.](http://cipalonline.github.io/)
+* I'm learning Java.
+* I'm working on a special Python project.
+  
 </td>
 
-</table>
+<td text-align=center>
+        <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badjavii&langs_count=10&theme=dracula&layout=compact&border_color=ff6e96&bg_color=00000000&"/></div>
+</td>
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api)
+</table> 
+
