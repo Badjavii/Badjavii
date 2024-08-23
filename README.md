@@ -74,7 +74,11 @@
 
 <!--! Developer's Quote !-->
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h2 align="center">Developer's Quote</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Cita inspiradora">
+</div>
 
 <!--! Contact Me !-->
 
@@ -85,13 +89,3 @@
   [<img src ="https://img.shields.io/badge/instagram-%23.svg?&style=for-the-badge&logo=instagram&logoColor=dark&color=1F1F28"/>](https://www.instagram.com/ukb.javi/)
 
 </div>
-
-
-
-
-
-
-
-
-
-
