@@ -25,22 +25,22 @@
 <table align="center">
 
 <td style="width:50%; text-align:center; vertical-align:top;">
+  <p align="center">
+    <img src="https://github.com/Badjavii/Badjavii/blob/main/mariouuuu.gif" width="200" height="100">
+  </p>
+</td>
 
+<td style="width:50%; text-align:center; vertical-align:top;">
   <h3 align="center">Software and Tools</h3>
-  <img src="https://skillicons.dev/icons?i=discord,idea,github,vscode,notion,kali,linux&perline=3&theme=dark"/>
-  
+  <img src="https://skillicons.dev/icons?i=discord,idea,github,vscode,notion,,unity,kali,linux&perline=5&theme=dark"/>
 </td>
 
 <td style="width:50%; text-align:center; vertical-align:top;">
   <h3 align="center">Languages</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,java,pa&perline=3&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,,,java&perline=5&theme=dark"/>
 </td>
 
 </table>
-
-
-
-
         
 <!--! What Do I Currently Work On? !-->
 
