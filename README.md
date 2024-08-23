@@ -12,7 +12,7 @@
 <div style="text-align:justify;">
         <p>
             I was born in Venezuela and at the age of 13 I received my first PC. At first, I only used                 Microsoft Word and browsed the web for pirated movies.<br><br>At the age of 17, I installed 
-           Visual Studio Code and created my own website using HTML, CSS, and JavaScript. I also explored              different operating systems such as Windows 11 and Mint Linux.<br><br>I used a virtual machine              with Kali Linux and Tor to learn about computer system architecture on the Dark Web.<br>                    <br>Today, I continue to learn and aspire to become a professional in this field.
+           Visual Studio Code and created my own website using HTML, CSS, and JavaScript. I also explored              different operating systems such as Windows 11 and Mint Linux.<br><br>At 18, I used a virtual machine              with Kali Linux and Tor to learn about computer system architecture on the Dark Web.<br>                    <br>Today, I continue to learn and aspire to become a professional in this field.
         </p>
 </div>
 
