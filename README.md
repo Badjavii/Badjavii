@@ -52,7 +52,7 @@
         
 * Working with my [partner](https://github.com/druxorey) on developing [CIPAL.](http://cipalonline.github.io/)
 * Planning a special Python project.
-* Learning Java.
+* Learning [Java](https://github.com/Badjavii/Learning-Java?tab=readme-ov-file).
   
 </td>
 
