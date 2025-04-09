@@ -27,7 +27,7 @@ const me = {
 
 ## Metrics
 
-<div align="center">
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=Badjavii&theme=dracula&show_icons=true&count_private=true&border_color=ff6e96&bg_color=00000000&" style="margin-right: 10px; height: 180px; width: auto;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Badjavii&langs_count=10&theme=dracula&layout=compact&border_color=ff6e96&bg_color=00000000&" style="height: 180px; width: auto;">
 </div>
@@ -36,7 +36,7 @@ const me = {
 
 ## Else
 
-<div align="center">
+<div>
   <img src="img01.gif" alt="GIF animado" style="width:300px; height:150px; display:inline-block; margin-right:10px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Cita inspiradora" style="width:480px; height:150px; display:inline-block;">
 </div>
