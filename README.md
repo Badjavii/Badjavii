@@ -15,6 +15,6 @@ const me = {
 
 <!--! Some Links !-->
 
-<div style="align: center;">
+<p align: center>
     [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%23BD93F9.svg?style=for-the-badge&logo=linkedin&logoColor=F8F8F2)](https://www.linkedin.com/in/javier-otero-96b355252/)
-</div>
+</p>
