@@ -8,7 +8,7 @@ const me = {
     student_in: ["Computer Science", "Physics"],
     interests: ["Books", "Music", "Gaming"],
     learning: ["Cybersecurity", "Networks", "Linux"],
-    langs: ["C", "Java", "TypeScript", "Python"],
+    langs: ["C/C++", "Java", "TypeScript", "Python"],
     funFact: "I use Fedora and Arch btw",
 };
 ```
