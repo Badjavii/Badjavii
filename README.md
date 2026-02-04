@@ -5,11 +5,11 @@
 const me = {
     username: "badjavii",
     location: "Caracas, Venezuela",
-    student_in: ["Computer Science", "Physics"],
+    student_in: ["Software Engineering", "Physics"],
     interests: ["Books", "Music", "Gaming"],
     learning: ["Cybersecurity", "Networks", "Linux"],
     langs: ["C/C++", "Java", "TypeScript", "Python"],
-    funFact: "I use Fedora and Arch btw",
+    funFact: "I use Arch and Fedora btw",
 };
 ```
 
