@@ -6,9 +6,9 @@ const me = {
     username: "badjavii",
     location: "Caracas, Venezuela",
     student_in: ["Software Engineering", "Physics"],
-    interests: ["Books", "Music", "Gaming"],
-    learning: ["Cybersecurity", "Networks", "Linux"],
+    learning: ["Cybersecurity", "Networks"],
     langs: ["C/C++", "Java", "TypeScript", "Python"],
+    interests: ["Books", "Music"],
     funFact: "I use Arch and Fedora btw",
 };
 ```
