@@ -6,8 +6,8 @@ const me = {
     username: "badjavii",
     location: "Caracas, Venezuela",
     student_in: ["Computer Science", "Physics"],
-    interests: ["Cybersecurity", "Quantum Mechanics", "Quantum Computation"],
-    learning: ["Java", "SQL", "Linux"],
+    interests: ["Quantum Mechanics", "Quantum Computation"],
+    learning: ["Cybersecurity", "C", "SQL", "Linux"],
     musicFav: "Gorillaz", 
     funFact: "I use Fedora and Arch btw",
 };
